@@ -1,0 +1,13 @@
+.Line {
+    display: flex;
+    gap: 2px;
+    height: 100%;
+    align-items: center;
+    justify-content: flex-start;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.Line[justify="between"] {
+    justify-content: space-between;
+}
+

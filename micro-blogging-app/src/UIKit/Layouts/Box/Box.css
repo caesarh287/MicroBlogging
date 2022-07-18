@@ -1,0 +1,6 @@
+.Box {
+    border: 2px solid black;
+    display: block;
+    background-color: #343A40;
+    color: #FFFFFF;
+}
